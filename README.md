@@ -1,4 +1,4 @@
-# sql-sales-database-project
+# Sql-Sales-Database-Project
 
 ## 📌 Project Overview
 This project features an interactive sales analysis dashboard developed with Power BI, using SQL for data validation. The dashboard highlights key performance indicators (KPIs), daily sales trends, popular products and peak business hours.
